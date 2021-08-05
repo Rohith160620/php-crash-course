@@ -1,0 +1,11 @@
+-------------------------------------php-crash-course-------------------------------------------
+
+
+ - How to declare Variables
+ - How to work with strings, Arrays
+ - How to work with file System
+ - How to use cURL to fetch resources
+ - Object Oriented PHP
+ - Namespaces
+ - Composer 
+ - Autoloading
