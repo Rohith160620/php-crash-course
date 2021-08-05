@@ -9,3 +9,7 @@
  - Namespaces
  - Composer 
  - Autoloading
+
+
+//////////////////////////////////////////
+these are the steps to learn php
