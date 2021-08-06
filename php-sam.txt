@@ -4,7 +4,30 @@
  - How to declare Variables
  - How to work with strings, Arrays
  - How to work with file System
+ - How to use cURL to fetch resources
+ - Object Oriented PHP
+ - Namespaces
+ - Composer 
+ - Autoloading
 
- 
-these are the steps to learn php
+ - comments
+ - Variables & Data Types
+ - Number/String functions
+ - Arrays, array functions
+ - Conditionals ( if-else, elseif, switch )
+ - Loops ( while, do-while, for )
+ - Functions
+ - Including files
+ - Working with file system
+ - OOP
+ - CURL
+ - Product CRUD ( bad, better and good code )
+     - superglobals ( $_GET, $_POST, $_FILES )
+     - Form validation
+     - Uploading image
+     - Working with file system
+     - Mysql
+ - Namespaces, Autoloading & composer
+ - Custom Router ( MVC Framework )
+ - Sessions, Cookies
 

@@ -1,0 +1,10 @@
+-------------------------------------php-crash-course-------------------------------------------
+
+
+ - How to declare Variables
+ - How to work with strings, Arrays
+ - How to work with file System
+
+ 
+these are the steps to learn php
+
